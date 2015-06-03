@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="uilogin_title">Login</string>
+    <string name="email_hinttext">Email</string>
+    <string name="password_hinttext">Password</string>
+
 </resources>
